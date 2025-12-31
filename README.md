@@ -8,6 +8,7 @@ This project demonstrates frontend development skills with a real-world product 
 ## 🖼️ Preview
 
 > A clean dashboard-style chat interface with sidebar, chat history, and message flow — similar to real SaaS products.
+<img width="1588" height="934" alt="image" src="https://github.com/user-attachments/assets/24f91bc9-eb99-4e0d-990c-9991ff81d0a8" />
 
 ---
 
